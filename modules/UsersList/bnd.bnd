@@ -1,0 +1,4 @@
+Bundle-Name: UsersList
+Bundle-SymbolicName: UsersList
+Bundle-Version: 1.0.0
+Export-Package: UsersList.constants
